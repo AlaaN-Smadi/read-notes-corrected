@@ -11,6 +11,7 @@
  JavaScript Summery | [open page](read04a)
  Videos Summery | [open page](video)
  Loops | [open page](read05)
+ JavaScript & jQuery | [open page](read06)
 
  
 
