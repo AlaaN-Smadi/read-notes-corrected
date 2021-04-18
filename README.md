@@ -12,6 +12,7 @@
  Videos Summery | [open page](video)
  Loops | [open page](read05)
  JavaScript & jQuery | [open page](read06)
+ Color in CSS | [open page](read07)
 
  
 
